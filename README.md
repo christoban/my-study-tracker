@@ -10,19 +10,12 @@ Ce projet utilise :
 •	JSON pour stocker les données
 •	API REST (ZenQuotes)
 •	Bibliothèque requests
- 
-Version en ligne
+
 Vous pouvez voir le projet ici :
 (lien Replit)
 Exemple :
 https://replit.com/@christoban2005/my-study-tracker
  
-Compte de test
-Aucun compte n’est nécessaire.
-L’application fonctionne directement dans le terminal.
- 
-Auteur
-Projet créé par Ndzana Christophe.
- 
-Si tu veux, je peux aussi te donner une version anglaise encore plus propre (niveau GitHub professionnel) qui donne une meilleure impression aux reviewers Chingu.
+Author
+Projet created by Ndzana Christophe.
 
