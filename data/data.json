@@ -1,0 +1,19 @@
+{
+    "subjects": [
+        {
+            "name": "French",
+            "sessions": [
+                {
+                    "date": "2026-03-08",
+                    "duration": 45,
+                    "notes": "I learned how to do essay writing"
+                },
+                {
+                    "date": "2026-03-09",
+                    "duration": 56,
+                    "notes": "I learned how to read texts"
+                }
+            ]
+        }
+    ]
+}
