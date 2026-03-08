@@ -1,4 +1,4 @@
-MY STUDY TRACKER
+# MY STUDY TRACKER
 
 My Study Tracker is a python console application that help students track their study time.
 Users can add subjects, create study sessions, view their subjects, and see the total time spent studying
